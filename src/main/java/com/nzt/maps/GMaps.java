@@ -1,4 +1,4 @@
-package com.nzt.gmaps;
+package com.nzt.maps;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Net.HttpMethods;

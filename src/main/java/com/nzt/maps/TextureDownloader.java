@@ -1,4 +1,4 @@
-package com.nzt.gmaps;
+package com.nzt.maps;
 
 import java.io.InputStream;
 import java.net.HttpURLConnection;

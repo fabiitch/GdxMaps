@@ -1,4 +1,4 @@
-package com.nzt.gmaps;
+package com.nzt.maps;
 
 public class GMapsUrlBuilder {
 
